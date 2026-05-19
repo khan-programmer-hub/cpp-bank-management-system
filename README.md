@@ -1,2 +1,15 @@
-# cpp-bank-management-system
-C++ Bank Management System using OOP concepts with menu-driven interface and account management features.
+# C++ Bank Management System
+
+A console-based Bank Management System using Object-Oriented Programming and file handling.
+
+## Features
+- Account creation
+- Deposit money
+- Withdraw money
+- Balance inquiry
+- File handling storage
+
+## Tech Used
+- C++
+- OOP
+- File Handling
